@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source and internet access to all.
 - 🌱 I’m currently learning JavaScript, C, C++ and Python.
 - 💞️ I’m looking to collaborate on Browsers, Digital Equality 
-- 📫 How to reach me ...
+- 📫 How to reach me: [twitter](twitter.com/tbmoyo)
 
 <!---
 tawandamoyo/tawandamoyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

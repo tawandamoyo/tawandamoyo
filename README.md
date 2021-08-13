@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tawandamoyo
 - 👀 I’m interested in Open Source and internet access to all.
-- 🌱 I’m currently learning JavaScript, C, C++ and Python.
-- 💞️ I’m looking to collaborate on Browsers, Digital Equality 
+- 🌱 I’m currently learning JavaScript,
+- 💞️ I’m looking to collaborate on Browsers, Digital Equality and all things JavaScript
 - 📫 How to reach me: [twitter](twitter.com/tbmoyo)
 
 <!---

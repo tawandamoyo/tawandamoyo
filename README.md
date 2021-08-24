@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tawandamoyo
-- 👀 I’m interested in Open Source and internet access to all.
-- 🌱 I’m currently learning JavaScript,
+- 👀 I’m interested in Open Source and writing.
+- I believe in the power of the Internet in making the world a better place by increasing access to information to everyone, wherever they may be.
+- 🌱 I love JavaScript,
 - 💞️ I’m looking to collaborate on Browsers, Digital Equality and all things JavaScript
 - 📫 How to reach me: [twitter](https://twitter.com/tbmoyo)
 

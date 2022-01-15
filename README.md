@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tawandamoyo
-- 👀 I’m interested in Open Source and writing.
+- 👀 I’m love Open Source. 
 - I believe in the power of the Internet. It can make the world a better place by increasing access to information to everyone, wherever they may be.
 - 🌱 I love JavaScript,
 - 💞️ I’m looking to collaborate on Browsers, Digital Equality and all things JavaScript

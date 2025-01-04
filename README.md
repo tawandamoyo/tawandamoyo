@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tawandamoyo
+- 👋 Hi, I’m Tawanda
 - Open Source, JavaScript, Books
 - 📫 How to reach me: [twitter](https://twitter.com/tbmoyo)
 

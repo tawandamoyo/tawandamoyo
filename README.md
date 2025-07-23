@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tawanda
-- Open Source, JavaScript, Books, Open Daa,  AI evals
+- Open Source, JavaScript, Books, Open Data,  AI evals
 - I blog at [tawanda.dev](https://tawanda.dev) and I'm also on [twitter](https://twitter.com/tbmoyo)
 
 <!---
